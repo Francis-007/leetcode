@@ -1,2 +1,2 @@
 # leetcode
-solve leetcode problems
+solve leetcode problems, and improve every day
